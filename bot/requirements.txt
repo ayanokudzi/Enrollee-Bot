@@ -1,0 +1,17 @@
+# Bot + experiments
+python-telegram-bot>=20.7
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+transformers>=4.44
+accelerate>=0.33
+torch>=2.2
+langchain>=0.2
+langchain-text-splitters>=0.2
+langchain-experimental>=0.0.60
+pymorphy3>=2.0
+beautifulsoup4>=4.12
+requests>=2.31
+pandas>=2.0
+numpy>=1.26
+tqdm>=4.66
+scikit-learn>=1.3
